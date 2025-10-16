@@ -20,3 +20,4 @@ int main()
 	cout << "La suma total de los numeros es de: " << suma_total;
 	return 0;
 }
+
